@@ -73,3 +73,4 @@ console.log(students);
 //     return scoresTotal+student.score;
 // },0)/students.length;
 // console.log(averageScore);
+
